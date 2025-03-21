@@ -10,8 +10,7 @@ java -jar wiremock-standalone-3.12.1 --port 8082
 ### 3. Faça requisições
 ```
 POST: http://localhost:8081/api/v1/customers
-BODY:
-{
+BODY: {
 	"name": "Helia",
 	"zipCode": "38400000",
 	"cpf": "12345678900"
