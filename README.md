@@ -5,10 +5,9 @@
 #### 2. Configurar o wiremock fornecido na aula 24: 
 ```
 java -jar wiremock-standalone-3.12.1 --port 8082
-
-![image](https://github.com/user-attachments/assets/b715d89a-27e5-4450-a671-77425e240146)
-
 ```
+![image](https://github.com/user-attachments/assets/3f882250-aac1-4ad3-b3f2-30341a0d853e)
+
 
 #### 3. Faça requisições
 ```
