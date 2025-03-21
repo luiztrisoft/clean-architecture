@@ -25,9 +25,9 @@ mongosh -u root -p
 (informe a senha)
 ```
 ```
-	 > use cleanarch
-	 > show collections
-	 > db.customers.find()
+> use cleanarch
+> show collections
+> db.customers.find()
 ```
 
 #### KAFKA (Publicar o topico de cpf validado)
