@@ -1,6 +1,7 @@
 # clean-architecture
 
 #### 1. Executar kafka e mongodb pelo docker
+![image](https://github.com/user-attachments/assets/0566d4fa-07c2-44c5-b693-6b6e5fa65b8f)
 
 #### 2. Configurar o wiremock fornecido na aula 24: 
 ```
