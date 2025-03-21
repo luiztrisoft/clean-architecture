@@ -5,6 +5,9 @@
 #### 2. Configurar o wiremock fornecido na aula 24: 
 ```
 java -jar wiremock-standalone-3.12.1 --port 8082
+
+![image](https://github.com/user-attachments/assets/b715d89a-27e5-4450-a671-77425e240146)
+
 ```
 
 #### 3. Faça requisições
@@ -29,6 +32,7 @@ mongosh -u root -p
 > show collections
 > db.customers.find()
 ```
+![image](https://github.com/user-attachments/assets/5315b07e-0a4f-47e3-a451-2a42de619ce1)
 
 #### KAFKA (Publicar o topico de cpf validado)
 Depois de instalado o plugin kafkalytic, crie os topicos de acordo com o que foi criado no projeto. 
